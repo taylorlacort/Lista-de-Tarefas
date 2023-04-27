@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "lista-de-tarefas-4dc2d"
-  }
+    "default": "lista-de-tarefas-4dc2d",
+    "e.g": "lista-de-tarefas-4dc2d"
+  },
+  "targets": {},
+  "etags": {}
 }
